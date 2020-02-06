@@ -1,3 +1,3 @@
-username='GuillaumePv'
+username=''
 
-password = 'guedelon97!'
+password = ''
